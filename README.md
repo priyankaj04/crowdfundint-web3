@@ -1,6 +1,6 @@
 ## Getting Started
 
-Create a project using this example:
+Create a project using this example :
 
 ```bash
 npx thirdweb create --contract --template hardhat-javascript-starter
